@@ -1,4 +1,5 @@
-# ey-i.org
+![Ey-I](ey-i.jpg)
+
 A completely typical AI organization.
 
-![Ey-I](ey-i.jpg)
+https://ey-i.org
