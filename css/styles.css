@@ -1,0 +1,32 @@
+body {
+  
+  /* background */
+  background-image: url("../gfx/bg.jpg");
+  background-size: cover; 
+  -ms-background-size: cover; 
+  -o-background-size: cover; 
+  -moz-background-size: cover; 
+  -webkit-background-size: cover;
+
+  /* text */
+  font-size: .8em;
+  font-family: sans-serif;
+  color: white;
+
+}
+
+a {
+  color: hotpink;
+  text-decoration: none;
+}
+
+#logo {
+  width: 500px;
+}
+
+#slogan {
+  top: 140px;
+  position: absolute;
+  left: 150px;
+  font-weight: bold;
+}
